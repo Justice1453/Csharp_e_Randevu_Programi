@@ -1,0 +1,33 @@
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\DenemeProgram\DenemeProgram\bin\Debug\e-Randevu Sistemi.exe.config
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\DenemeProgram\DenemeProgram\bin\Debug\e-Randevu Sistemi.exe
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\DenemeProgram\DenemeProgram\bin\Debug\e-Randevu Sistemi.pdb
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\DenemeProgram\DenemeProgram\obj\Debug\DenemeProgram.KimlikSorgu.resources
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\DenemeProgram\DenemeProgram\obj\Debug\eRandevuSistemi.Properties.Resources.resources
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\DenemeProgram\DenemeProgram\obj\Debug\DenemeProgram.RandevuEkrn.resources
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\DenemeProgram\DenemeProgram\obj\Debug\DenemeProgram.Randevular_Ekranı.resources
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\DenemeProgram\DenemeProgram\obj\Debug\eRandevuSistemi.csproj.GenerateResource.Cache
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\DenemeProgram\DenemeProgram\obj\Debug\e-Randevu Sistemi.exe
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\DenemeProgram\DenemeProgram\obj\Debug\e-Randevu Sistemi.pdb
+C:\Users\Emrullah1876\Documents\Visual Studio 2015\Projects\DenemeProgram\DenemeProgram\obj\Debug\eRandevuSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Emrullah1876\Desktop\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\bin\Debug\e-Randevu Sistemi.exe.config
+C:\Users\Emrullah1876\Desktop\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\obj\Debug\e-Randevu Sistemi.exe
+C:\Users\Emrullah1876\Desktop\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\obj\Debug\e-Randevu Sistemi.pdb
+C:\Users\Emrullah1876\Desktop\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\bin\Debug\e-Randevu Sistemi.exe
+C:\Users\Emrullah1876\Desktop\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\bin\Debug\e-Randevu Sistemi.pdb
+C:\Users\Emrullah1876\Desktop\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\obj\Debug\eRandevuSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Emrullah1876\Desktop\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\obj\Debug\DenemeProgram.KimlikSorgu.resources
+C:\Users\Emrullah1876\Desktop\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\obj\Debug\eRandevuSistemi.Properties.Resources.resources
+C:\Users\Emrullah1876\Desktop\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\obj\Debug\DenemeProgram.RandevuEkrn.resources
+C:\Users\Emrullah1876\Desktop\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\obj\Debug\DenemeProgram.Randevular_Ekranı.resources
+C:\Users\Emrullah1876\Desktop\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\obj\Debug\eRandevuSistemi.csproj.GenerateResource.Cache
+D:\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\bin\Debug\e-Randevu Sistemi.exe.config
+D:\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\obj\Debug\e-Randevu Sistemi.exe
+D:\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\obj\Debug\e-Randevu Sistemi.pdb
+D:\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\bin\Debug\e-Randevu Sistemi.exe
+D:\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\bin\Debug\e-Randevu Sistemi.pdb
+D:\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\obj\Debug\eRandevuSistemi.csprojResolveAssemblyReference.cache
+D:\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\obj\Debug\DenemeProgram.KimlikSorgu.resources
+D:\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\obj\Debug\eRandevuSistemi.Properties.Resources.resources
+D:\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\obj\Debug\DenemeProgram.RandevuEkrn.resources
+D:\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\obj\Debug\DenemeProgram.Randevular_Ekranı.resources
+D:\Basit e-Randevu Sistemi\DenemeProgram\DenemeProgram\obj\Debug\eRandevuSistemi.csproj.GenerateResource.Cache
